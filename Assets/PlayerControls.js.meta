@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 61e36a0939534034e83baefe7d864560
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - banana_pref: {fileID: 400000, guid: 12f9d11ac2c269a4d8d0685eeca46226, type: 2}
+  - big_pref: {fileID: 400000, guid: 90fba69f6526cd744b27d73e0d27e02a, type: 2}
+  - med_pref: {fileID: 400000, guid: d0a4b26923b2e9646a5de2dba8fd37b5, type: 2}
+  - small_pref: {fileID: 400000, guid: ab1333b9605e21742a216d5c19f58664, type: 2}
+  - clone: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
