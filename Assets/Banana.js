@@ -16,7 +16,7 @@ function OnCollisionEnter2D(hitInfo: Collision2D) {
 }
 
 function Update () {
-  if(rigidbody2D.position.x > 8 || rigidbody2D.position.x < -8 || rigidbody2D.position.y > 6 || rigidbody2D.position.y < -6) {
+  if(GetComponent.<Rigidbody2D>().position.x > 8 || GetComponent.<Rigidbody2D>().position.x < -8 || GetComponent.<Rigidbody2D>().position.y > 6 || GetComponent.<Rigidbody2D>().position.y < -6) {
     Destroy(this.gameObject);
   }
 }
