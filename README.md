@@ -1,4 +1,3 @@
-# MonkeyPooSling
-Game I created with the Unity game engine. First game I ever made.
+# MonkeyPooSling - code by ooutlaw1991, art by byhay1
 
-This game is unfinished.
+No edits to code/art; game remains unfinished. 
